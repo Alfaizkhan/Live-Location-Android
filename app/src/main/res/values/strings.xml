@@ -2,5 +2,5 @@
     <string name="app_name">LiveMap</string>
 
 
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBEtX-3pSbEyXSdgjampNXB-usxbQBli-0</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Your_key</string>
 </resources>
