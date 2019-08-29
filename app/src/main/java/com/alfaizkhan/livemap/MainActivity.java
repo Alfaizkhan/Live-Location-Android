@@ -254,6 +254,4 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
                 .build();
         mGoogleApiClient.connect();
     }
-
-
 }
